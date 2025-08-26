@@ -1,4 +1,4 @@
 # belajar-kolaborasi
-commit 1
-commit 2
-commit 3
+Belajar GitHub di Dicoding sangat menyenangkan!<br>
+Mendokumentasikan dengan GitHub menjadi lebih mudah.
+Manajemen kode menjadi lebih mudah berkat GitHub.
